@@ -178,7 +178,7 @@ Your brand is not advertising on Flipkart. Flipkart's ad platform is less compet
 - Hand-drawn diagram and sketch photos uploaded to this repository
 - Dynamic Profitability Model (Google Sheet) link below
 
-**Google Sheet Model:** [To be added after upload]
+**Google Sheet Model:** (https://docs.google.com/spreadsheets/d/1kLNapqKZg3RlfET992nb5W_Oxj58cWsKk7Ht2cyif8k/edit?usp=sharing)
 
 **Submitted by:** Sundram Dwivedi
 **Date:** June 2026
